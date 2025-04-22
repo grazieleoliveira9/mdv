@@ -1,0 +1,68 @@
+1745322270092	geckodriver	INFO	Listening on 127.0.0.1:54089
+1745322273193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5409 ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GRAZIE~1.OLI\\AppData\\Local\\Temp\\rust_mozprofiley3ilvx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1745322273900	Marionette	INFO	Marionette enabled
+1745322274100	Marionette	INFO	Listening on port 54144
+WebDriver BiDi listening on ws://127.0.0.1:54090
+Read port: 54144
+1745322274255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.amazon.com.br/s?k=notebook, line 22596: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1745322280955	Marionette	INFO	Stopped listening on port 54144
+Dynamically enable window occlusion 1
+1745322294394	geckodriver	INFO	Listening on 127.0.0.1:54528
+1745322297499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5452 ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GRAZIE~1.OLI\\AppData\\Local\\Temp\\rust_mozprofile1aqBKe"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1745322297905	Marionette	INFO	Marionette enabled
+1745322298044	Marionette	INFO	Listening on port 54583
+WebDriver BiDi listening on ws://127.0.0.1:54529
+Read port: 54583
+1745322298170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.amazon.com.br/s?k=notebook, line 22523: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1745322306900	Marionette	INFO	Stopped listening on port 54583
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 607: TypeError: browser is null
+1745324178572	geckodriver	INFO	Listening on 127.0.0.1:64791
+1745324181629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6479 ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GRAZIE~1.OLI\\AppData\\Local\\Temp\\rust_mozprofileRxt8lp"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1745324182026	Marionette	INFO	Marionette enabled
+1745324182175	Marionette	INFO	Listening on port 64840
+WebDriver BiDi listening on ws://127.0.0.1:64792
+Read port: 64840
+1745324182287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.amazon.com.br/s?k=notebook, line 22599: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1745324189651	Marionette	INFO	Stopped listening on port 64840
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 607: TypeError: browser is null
+1745324489947	geckodriver	INFO	Listening on 127.0.0.1:52918
+1745324493003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5291 ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GRAZIE~1.OLI\\AppData\\Local\\Temp\\rust_mozprofile31iAPR"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1745324493404	Marionette	INFO	Marionette enabled
+1745324493554	Marionette	INFO	Listening on port 52967
+Read port: 52967
+WebDriver BiDi listening on ws://127.0.0.1:52919
+1745324493609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.amazon.com.br/s?k=notebook, line 22608: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
